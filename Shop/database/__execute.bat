@@ -1,0 +1,1 @@
+"C:\Program Files\Firebird\Firebird_4_0\isql.exe" -i '.\_ZAKAZ.sql' 1>___data.txt 2>___errors.txt
